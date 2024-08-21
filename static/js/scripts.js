@@ -40,8 +40,6 @@ function sendMessage() {
 
     .catch((error) => {
         console.error("Error:", error);
-
-        // Remover la clase h1-waiting incluso si hay un error
         document.querySelector("h1").classList.remove("h1-waiting");
     });
 }   
