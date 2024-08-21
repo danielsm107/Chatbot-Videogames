@@ -133,31 +133,3 @@ p {
     background: black;
 }
 
-.markdown-content p {
-    margin: 10px 0;
-}
-
-.markdown-content a {
-    color: #007bff;
-    text-decoration: none;
-}
-
-.markdown-content a:hover {
-    text-decoration: underline;
-}
-
-.markdown-content code {
-    background-color: #f4f4f4;
-    padding: 2px 4px;
-    border-radius: 3px;
-    font-family: monospace;
-}
-
-.markdown-content pre {
-    background-color: #f4f4f4;
-    padding: 10px;
-    border-radius: 5px;
-    overflow-x: auto;
-}
-
-
