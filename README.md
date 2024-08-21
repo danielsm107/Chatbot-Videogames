@@ -1,2 +1,2 @@
 # Chatbot-Videogames
-A Chatbot videogame's expert
+This is project of an AI videogames expert using Ollama with the model Openhermes and Flask.
